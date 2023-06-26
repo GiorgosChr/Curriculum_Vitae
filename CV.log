@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.5.31)  14 JUN 2023 14:09
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.5.31)  26 JUN 2023 21:48
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/george/Nextcloud/Curriculum_Vitae/CV.tex
@@ -321,12 +321,12 @@ Here is how much of LuaTeX's memory you used:
  125056,552014 words of node,token memory allocated
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:603,3:341,4:182,5:532,6:90,7:9743,8:36,9:356,10:6,11:790
+   avail lists: 2:617,3:350,4:188,5:541,6:92,7:10009,8:36,9:367,10:6,11:817
  29816 multiletter control sequences out of 65536+600000
  30 fonts using 2003815 bytes
- 75i,6n,72p,613b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,5n,72p,613b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CV.pdf (2 pages, 60570 bytes).
+Output written on CV.pdf (2 pages, 60620 bytes).
 
 PDF statistics: 78 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
