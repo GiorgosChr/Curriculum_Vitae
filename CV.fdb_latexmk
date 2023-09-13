@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1690983024 "/home/george/Nextcloud/Curriculum_Vitae/CV.tex" "CV.pdf" "CV" 1690983026
+["lualatex"] 1694595584 "/home/george/Nextcloud/Curriculum_Vitae/CV.tex" "CV.pdf" "CV" 1694595585
   "/home/george/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1685974842 124213 a3bd0e7906af025b007d0cfb6e758f8b ""
   "/home/george/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc" 1685974843 132135 71f2fa0b92a94353459a44bd8839f4ef ""
   "/home/george/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1675959279 123142 a5bb91f587c7a560590d95e654431ffa ""
@@ -7,7 +7,7 @@
   "/home/george/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman17-regular.luc" 1685974842 124728 bc7170e5ed0c07130af74f28e38b6d66 ""
   "/home/george/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc" 1683188635 123949 4155eb357ed1cf2ce51e7cc0bba182a9 ""
   "/home/george/.texlive2021/texmf-var/luatex-cache/generic/names/luaotfload-names.luc" 1690377113 1672081 08168798d0fff72f108ef15ec38c78d0 ""
-  "/home/george/Nextcloud/Curriculum_Vitae/CV.tex" 1690983024 6644 810c39a8d007b3c3e39fcd4b0f1ac591 ""
+  "/home/george/Nextcloud/Curriculum_Vitae/CV.tex" 1694595583 7133 4604e0b6ff15719d22c58beb50a6bf3b ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -118,9 +118,9 @@
   "/usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf" 1254938640 111948 cee9e390fd6d23cfb4d6871ba2a9ee5b ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1675936650 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1685518232 4555379 9ebdd0c6f3494b3429e05a76c4a21a8a ""
-  "CV.aux" 1690983026 686 4ce905362b6645b598ea182482e9aeed "lualatex"
-  "CV.out" 1690983026 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "CV.tex" 1690983024 6644 810c39a8d007b3c3e39fcd4b0f1ac591 ""
+  "CV.aux" 1694595585 686 4ce905362b6645b598ea182482e9aeed "lualatex"
+  "CV.out" 1694595585 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "CV.tex" 1694595583 7133 4604e0b6ff15719d22c58beb50a6bf3b ""
   "resume.cls" 1684572986 4929 cbbf282bdad67a00a3ec2f31e0175231 ""
   (generated)
   "CV.aux"
