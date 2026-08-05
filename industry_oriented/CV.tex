@@ -27,15 +27,27 @@
 
         \vspace{-0.5em}
 
-        \begin{rSection}{RESEARCH EXPERIENCE}
+        \begin{rSection}{EXPERIENCE}
                 \textbf{PhD Project}, The University of Edinburgh, United Kingdom \hfill Sept 2024 - Present\\
                 % {\it Proton structure and light quark Yukawa couplings}\hfill \textit{University of Edinburgh}
-                \vspace{-1.5em}
+                \vspace{-1.2em}
+
+                \textit{Analysis}
+                \vspace{-0.6em}
                 \begin{itemize}
                         \itemsep -2pt {}
-                        \item Developed machine learning regressors to improve separation of signal from background in hypothesis testing searches.
-                        \item Applied advanced optimization techniques to boost search sensitivity, achieving up to 25\% improvement.
-                        \item Integrated ML pipelines into high-energy physics workflows, demonstrating scalable impact on large datasets.
+                        \item Developed deep neural network classifiers for rare-event detection, lifting sensitivity by up to 25\% over baseline.
+                        \item Added systematics to the statistical model accounting for event migration between categories.
+                        \item Improved a statistical model component, cutting mismodelling by 50\% and deriving uncertainties for the residual.
+                \end{itemize}
+                \vspace{-0.4em}
+
+                \textit{Simulation}
+                \vspace{-0.6em}
+                \begin{itemize}
+                        \itemsep -2pt {}
+                        \item Validated a fast approximate simulator against the full physics-based reference, tuning it per detector region.
+                        \item Built normalizing-flow generative models for detector response: within 5\% of the reference at over 6x speedup.
                 \end{itemize}
 
                 \textbf{MSc Thesis}, The University of Edinburgh, United Kingdom \hfill Nov 2023 - Aug 2024\\
@@ -43,9 +55,8 @@
                 \vspace{-1.5em}
                 \begin{itemize}
                         \itemsep -2pt {}
-                        \item Built and compared machine learning models to improve detection of subtle patterns in complex scientific data.
-                        \item Combined model outputs with statistical analysis techniques to set upper limits on key parameters with enhanced precision.
-                        \item Achieved results on par with cutting-edge benchmarks, showcasing the potential of ML in high-impact data analysis.
+                        \item Benchmarked gradient-boosted trees against deep neural networks for multi-class classification on large simulated datasets, selecting the production model on cross-validated performance.
+                        \item Fed model outputs into a likelihood-based inference pipeline, delivering the first constraints on a set of physical parameters via a newly proposed method.
                 \end{itemize}
 
                 \textbf{CERN Summer Student Programme 2023}, Switzerland  \hfill Jun 2023 - Aug 2023\\
@@ -54,8 +65,8 @@
                 \vspace{-1.5em}
                 \begin{itemize}
                         \itemsep -2pt {}
-                        \item Designed and implemented a C++ based statistical re-weighting algorithm to enhance the precision of asymmetry measurements.
-                        \item Benchmarked performance against previous methods, demonstrating measurable improvements in accuracy and reliability.
+                        \item Designed and implemented a C++ re-weighting algorithm correcting sampling bias between datasets, improving measurement precision over the incumbent method.
+                        \item Benchmarked against the previous approach on simulated data; \href{https://cds.cern.ch/record/2866568/}{report} and \href{https://github.com/GiorgosChr/CERN_Summer_Student_Programme_2023}{code} published publicly.
                 \end{itemize}
 
                 \textbf{BSc Thesis and Undergaduate Internship}, University of Cyprus, Cyprus \hfill May 2022 - May 2023\\
@@ -63,20 +74,17 @@
                 \vspace{-1.5em}
                 \begin{itemize}
                         \itemsep -2pt {} 
-                        \item Applied advanced statistical techniques (multi-state fits, model averaging) to analyze lattice QCD data and extract baryon masses at the physical pion mass.
-                        \item Devised and implemented novel fitting strategies, achieving results in strong agreement with experimental and theoretical benchmarks.
-                        \item Published findings in Physical Review D, marking the first calculation at the physical point for this spectrum.
+                        \item Analysed large-scale simulation output, applying multi-state fitting and model averaging to extract physical parameters with quantified uncertainty.
+                        \item Co-authored a peer-reviewed \href{https://arxiv.org/abs/2309.04401}{publication} in Physical Review D reporting the first calculation of its kind.
                 \end{itemize}
         \end{rSection} 
 
         \vspace{-0.5em}
 
         \begin{rSection}{AWARDS \& ACHIEVEMENTS}
-                {\bf Class Medal Award for MSc in Particle and Nuclear Physics}, The University of Edinburgh \hfill Nov 2024\\
-                Awarded for the excellent performance in the MSc in Particle and Nuclear Physics
+                {\bf Class Medal Award for MSc in Particle and Nuclear Physics}, The University of Edinburgh \hfill Nov 2024
 
-                {\bf Valedictorian in the Department of Physics}, University of Cyprus \hfill Jun 2023\\
-                Awarded to the student with the highest GPA of the department
+                {\bf Valedictorian in the Department of Physics}, University of Cyprus \hfill Jun 2023
         \end{rSection} 
 
         % \vspace{-0.5em}
@@ -104,8 +112,10 @@
                 \begin{itemize}
                         \itemsep -2pt {} 
                         \item \textbf{Programming}: Python, C++, Bash/Shell, Fortran, Mathematica
+                        \item \textbf{Machine Learning}: PyTorch, TensorFlow/Keras, scikit-learn, XGBoost; deep neural networks, generative models (normalizing flows), hyperparameter optimisation
+                        \item \textbf{Statistics \& Data}: Hypothesis testing, maximum-likelihood inference, uncertainty quantification; NumPy, Pandas, Matplotlib, Seaborn
+                        \item \textbf{Scale \& Tooling}: HPC \& batch computing, columnar data at scale (ROOT/uproot, HDF5, Parquet/Arrow), Git, Linux/Unix, \LaTeX
                         \item \textbf{Languages}: Greek (Native), English (IELTS Score: 8, Level: C1), French (Beginner)
-                        \item \textbf{Technical}: Git, \LaTeX, Linux, Unix, Machine Learning (scikit-learn, TensorFlow, PyTorch), Data Analysis (NumPy, Pandas), Publication-grade Data Visualization (MatPlotLib, Seaborn), Database Knowledge (HDF5)
                         % \item \textbf{Soft Skills}: Communication (technical and non-technical), Collaboration \& Teamwork, Time Management, Problem Solving \& Critical Thinking
                 \end{itemize}
         \end{rSection}
